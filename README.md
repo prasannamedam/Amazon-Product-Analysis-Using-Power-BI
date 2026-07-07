@@ -41,13 +41,21 @@ Top-Rated Products
 Most Reviewed Products
 Discount Distribution
 Product Performance Summary
+
 📊 Dashboard KPIs
+
 📦 Total Products
+
 ⭐ Average Rating
+
 💰 Average Price
+
 🏷️ Average Discount Percentage
+
 📝 Total Reviews
+
 🔥 Highest Rated Product
+
 📈 Dashboard Visualizations
 
 KPI Cards :
